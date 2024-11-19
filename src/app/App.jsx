@@ -108,7 +108,7 @@ export default function Home() {
                 treine seu cálculo mental.
               </p>
               <div className="w-full sm:w-96">
-                <a href="https://retangulo.org">
+                <a href="https://brain.retangulo.org">
                   <Button variant="primary">Jogar</Button>
                 </a>
               </div>
